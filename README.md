@@ -1,6 +1,7 @@
 # Key Features of Hangman Game: 
 
-1 : Random Word Generation :>  A hint is provided for each word to assist the player  <br>
+1 : Random Word Generation :>
+- A hint is provided for each word to assist the player  <br>
 
 2 : Interactive & Dynamic Keyboard Using JS <br>
 
